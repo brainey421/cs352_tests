@@ -1,0 +1,5 @@
+Before a(): 0
+a(): 1
+After a(): 0
+After b(): 2
+
